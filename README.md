@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**amit-hasan99/amit-hasan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amit-hasan99/amit-hasan99** ![image](https://github.com/user-attachments/assets/aa344f2c-df9a-46f1-b4a1-08bbdab5ffb8)
 
 Here are some ideas to get you started:
 
